@@ -1,1 +1,1 @@
-export const endpoint = 'https://2star-wars-character-search.glitch.me/api';
+export const endpoint = 'https://star-wars-character-search.glitch.me/api';
